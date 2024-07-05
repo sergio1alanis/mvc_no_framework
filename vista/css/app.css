@@ -1,0 +1,31 @@
+.panel {
+    max-width: flex;
+    margin: auto;
+    background: gainsboro;
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+    color: blue;
+}
+
+table,
+tr,
+td {
+    border: 1px solid tan;
+}
+
+#nohayreg {
+    background-color: red;
+    color: aliceblue;
+}
+
+.btn {
+    background: green;
+    color: aliceblue;
+    padding: 10px 20px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+}
